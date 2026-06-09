@@ -6,6 +6,8 @@
 %
 % <<../windspeed_app_screenshot.png>>
 %
+
+
 %% Query and Plot Data
 % In a callback function for the timer, write the code for the task that 
 % you want to execute periodically. Create a private function named 
